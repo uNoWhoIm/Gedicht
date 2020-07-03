@@ -1,2 +1,2 @@
 # Gedicht
-Mein Gedicht
+Mein Gedicht ist toll.
